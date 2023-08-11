@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_padding_vertical">8dp</dimen>
+    <dimen name="btn_text_size">18sp</dimen>
+
+    <dimen name="et_text_size">16sp</dimen>
+
+    <dimen name="nav_content_horizontal">16dp</dimen>
+
+    <dimen name="card_view_elevation">10dp</dimen>
+    <dimen name="card_view_corner_radius">10dp</dimen>
+
+    <dimen name="my_profile_user_image_size">100dp</dimen>
+    <dimen name="nav_header_main_user_image_size">80dp</dimen>
+    <dimen name="card_view_layout_content_padding">16dp</dimen>
+    <dimen name="board_image_size">100dp</dimen>
+    <dimen name="item_board_image_size">60dp</dimen>
+    <dimen name="item_member_member_image_size">60dp</dimen>
+
+    <dimen name="task_item_cv_margin">5dp</dimen>
+    <dimen name="task_item_cv_elevation">5dp</dimen>
+    <dimen name="task_item_cv_corner_radius">5dp</dimen>
+    <dimen name="task_item_image_buttons_padding">10dp</dimen>
+
+    <dimen name="member_dialog_action_button_text_size">16sp</dimen>
+    <dimen name="member_dialog_action_button_padding">10dp</dimen>
+
+    <dimen name="card_label_text_size">14sp</dimen>
+    <dimen name="card_value_padding">10dp</dimen>
+    <dimen name="card_value_marginTop">5dp</dimen>
+    <dimen name="card_label_marginTop">15dp</dimen>
+    <dimen name="card_cv_content_padding">16dp</dimen>
+    <dimen name="item_selected_member_image_size">45dp</dimen>
+</resources>

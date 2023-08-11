@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">PMApp</string>
+    <string name="my_profile">My Profile</string>
+    <string name="members">Members</string>
+    <string name="nav_sign_out">Sign Out</string>
+    <string name="alert">Alert</string>
+
+    <string name="intro_text_description">Collaborate and Plan Together Across Multiple Devices on ProjManagementApp\'s Minimalist Interface.</string>
+    <string name="sign_in_description_text">Enter your email id and password, to sign in.</string>
+    <string name="sign_up_description_text">Enter your name, email id and password, to register with us.</string>
+
+    <string name="image_contentDescription">image teamwork</string>
+    <string name="user_image_description">User image</string>
+    <string name="board_image_description">board image</string>
+    <string name="fab_create_a_board_description">button create a board</string>
+    <string name="selected_color_image_description">selected color chose image</string>
+    <string name="selected_user_image_description">selected user chose image</string>
+
+    <string name="name">Name</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="mobile">Mobile</string>
+
+    <string name="let_s_get_started_text">Let\'s Get started</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="board_name">Board Name</string>
+    <string name="please_click_back_again_to_exit">Please click back again to exit.</string>
+    <string name="no_boards_are_available">No Boards are available.</string>
+    <string name="select_label_color">Select Label Color</string>
+
+    <string name="btn_sign_up">SIGN UP</string>
+    <string name="btn_sign_in">SIGN IN</string>
+    <string name="btn_update">UPDATE</string>
+    <string name="btn_create">CREATE</string>
+    <string name="btn_add">ADD</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="btn_yes">YES</string>
+    <string name="btn_no">NO</string>
+
+    <string name="create_board_title">Create Board</string>
+    <string name="action_add_list">Add List</string>
+    <string name="hint_list_name">List Name</string>
+    <string name="action_add_card">Add Card</string>
+    <string name="hint_card_name">Card Name</string>
+    <string name="add_list">Add List</string>
+    <string name="add_member">Add Member</string>
+    <string name="search_member">Search Member</string>
+    <string name="select_due_date">Select Due Date</string>
+    <string name="due_date">Due Date</string>
+    <string name="select_members">Select Members</string>
+    <string name="select_color">Select Color</string>
+    <string name="label_color">Label Color</string>
+    <string name="delete_card">Delete Card</string>
+    <string name="ask_for_delete">Are you sure you want to delete \'%1$s\'?</string>
+    <string name="default_notification_channel_id">pm_notification_channel_id</string>
+</resources>
